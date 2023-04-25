@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class WrongLoginOrPasswordException {
+public class WrongLoginOrPasswordException extends Exception{
 }

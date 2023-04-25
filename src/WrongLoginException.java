@@ -1,2 +1,2 @@
-public class WrongLoginException {
+public class WrongLoginException extends Exception {
 }
